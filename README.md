@@ -37,4 +37,4 @@ Refreses automatically the server while debugging.
 
 Aleix Ferré | [Profile](https://www.github.com/CatalaHD)
 
-Laura Sánchez-Pascuala
+Laura Sánchez-Pascuala | [Profile](https://github.com/AkariQwerty)
