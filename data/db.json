@@ -1,9 +1,12 @@
 {
-    "todos": [{
-        "name": "Aleix",
-        "description": "Yo mismo"
-    }, {
-        "name": "Laura",
-        "description": "Tu misma"
-    }]
+  "todos": [
+    {
+      "name": "Aleix",
+      "description": "Yo mismo"
+    },
+    {
+      "name": "Laura",
+      "description": "Tu misma"
+    }
+  ]
 }
