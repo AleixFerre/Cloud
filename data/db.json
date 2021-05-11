@@ -1,12 +1,1 @@
-{
-  "todos": [
-    {
-      "name": "Aleix",
-      "description": "Yo mismo"
-    },
-    {
-      "name": "Laura",
-      "description": "Tu misma"
-    }
-  ]
-}
+{"todos":[{"name":"Aleix","description":"Yo mismo"},{"name":"Laura","description":"Tu misma"},{"name":"Sara","description":"La otra"},{"name":"Hola","description":"que tal"}]}
