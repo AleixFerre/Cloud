@@ -5,7 +5,7 @@ Repo per l'assignatura de Cloud
 
 ## Using
 
-To run the server use `npm run dev`
+To run the server use `npm run server`
 
 To run the client use `npm run client`
 
